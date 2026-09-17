@@ -24,22 +24,6 @@ I'm currently learning web development step by step and using GitHub to document
 * HTML Images
 * Basic HTML Tags
 
-## 📚 Currently Learning
-
-```text
-HTML
- ↓
-CSS
- ↓
-JavaScript
- ↓
-Frontend Development
- ↓
-Backend Development
- ↓
-Full Stack Development
-```
-
 ## 📂 My Repository
 
 ### 🚀 Full Stack Development
